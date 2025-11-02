@@ -1,0 +1,4 @@
+-- Observações
+	-- Rodando os comandos o banco ficará completamente vazio não possuindo tabelas e dados
+	-- Você precisará executar novamente o script de criação das tabelas (01_modelo_fisico) para voltar o banco
+	-- Recomendado fazer backup antes de executar.
